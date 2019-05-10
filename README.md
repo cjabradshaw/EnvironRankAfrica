@@ -12,7 +12,7 @@ BY: Corey J.A. Bradshaw (Flinders University, Australia) & Enrico Di Minin (Univ
 CONTACT: corey.bradshaw@flinders.edu.au
 globalecologyflinders.com
 
-All .csv data files included to run code. Update working directory accordingly.
+All 28 .csv data files are included to run code. Update working directory accordingly.
 
 Requires the following libraries: boot, lme4, sem, semGOF (note: might not function in later versions of R), dismo, gbm
 
