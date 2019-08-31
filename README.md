@@ -5,7 +5,7 @@ code updated May 2019
 
 R code accompanies the following paper:
 
-BRADSHAW, CJA & E DI MININ. 2019. Socio-economic predictors of environmental performance among African nations. Scientific Reports doi:10.1038/s41598-019-45762-3
+BRADSHAW, CJA & E DI MININ. 2019. Socio-economic predictors of environmental performance among African nations. Scientific Reports 9: 9306 http://doi.org/10.1038/s41598-019-45762-3
 
 BY: Corey J.A. Bradshaw (Flinders University, Australia) & Enrico Di Minin (University of Helsinki, Finland)
 
