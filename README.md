@@ -14,5 +14,5 @@ globalecologyflinders.com
 
 All 28 .csv data files are included to run code. Update working directory accordingly.
 
-Requires the following libraries: boot, lme4, sem, semGOF (note: might not function in later versions of R), dismo, gbm
+Requires the following libraries: <code>boot</code>, <code>lme4</code>, <code>sem</code>, <code>semGOF</code> (note: might not function in later versions of R), <code>dismo</code>, <code>gbm</code>
 
