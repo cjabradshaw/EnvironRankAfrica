@@ -1,4 +1,6 @@
 # Environmental Ranks of African Countries
+<img align="right" src="AfricaENV.png" alt="Africa Environmental Index" width="200" style="margin-top: 20px">
+
 R code and data for structural equation models and boosted regression trees to estimate relationships between environmental degradation and socio-economic variables among African nations
 
 code updated May 2019
