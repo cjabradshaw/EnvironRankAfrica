@@ -15,7 +15,13 @@ CONTACT: corey.bradshaw@flinders.edu.au
 <br>
 <a href="http://globalecologyflinders.com">globalecologyflinders.com</a>
 
-All 28 .csv data files (stored in the 'data' sub-directory) are included to run code. Update working directory accordingly.
+All 28 .csv data files (stored in the '<a href="https://github.com/cjabradshaw/EnvironRankAfrica/tree/master/data">data</a>' sub-directory) are included to run code. Update working directory accordingly.
 
-Requires the following libraries: <code>boot</code>, <code>lme4</code>, <code>sem</code>, <code>semGOF</code> (note: might not function in later versions of R), <code>dismo</code>, <code>gbm</code>
+## Requires the following libraries
+- <code>boot</code>
+- <code>lme4</code>
+- <code>sem</code>
+- <code>semGOF</code> (note: might not function in later versions of R)
+- <code>dismo</code>
+- <code>gbm</code>
 
