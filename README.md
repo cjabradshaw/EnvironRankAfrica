@@ -22,7 +22,7 @@ CONTACT: corey.bradshaw@flinders.edu.au
 ## Data files
 All 28 .csv data files (stored in the '<a href="https://github.com/cjabradshaw/EnvironRankAfrica/tree/master/data">data</a>' sub-directory) are included to run code. Update working directory accordingly.
 
-## Requires the following libraries
+## Requires the following R libraries
 - <code>boot</code>
 - <code>lme4</code>
 - <code>sem</code>
