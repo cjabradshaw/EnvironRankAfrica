@@ -19,6 +19,9 @@ CONTACT: corey.bradshaw@flinders.edu.au
 <br>
 <a href="http://globalecologyflinders.com">globalecologyflinders.com</a>
 
+## R script
+<code>AFRICA.country.rank.Github.R</code>
+
 ## Data files
 All 28 .csv data files (stored in the '<a href="https://github.com/cjabradshaw/EnvironRankAfrica/tree/master/data">data</a>' sub-directory) are included to run code. Update working directory accordingly.
 
